@@ -19,11 +19,3 @@ Festify is a free Spotify-powered app that lets your guests choose which music s
 ## License
 
 LGPLv3
-
-## Sponsors
-
-These people helped us bring Festify to life. Thank you!
-
-<a href="https://duplexmedia.com/"><img title="Duplexmedia" src="https://www.duplexmedia.com/uploads/images/logo.svg" width="400"></a>
-
-<a href="https://browserstack.com/"><img title="BrowserStack" src="https://festify.rocks/img/sponsors/browserstack.svg" width="400"></a>
